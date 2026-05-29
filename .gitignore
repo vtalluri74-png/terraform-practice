@@ -1,7 +1,11 @@
 .terraform/
 *.tfstate
 *.tfstate.*
+<<<<<<< HEAD
 crash.log
 *.tfvars
 *.tfvars.json
+=======
+.terraform.lock.hcl
+>>>>>>> f8dbaed5b43acf254561710fbcb32fa412242efc
 .DS_Store
