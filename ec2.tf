@@ -1,9 +1,5 @@
 # main.tf
 
-# AWS Provider
-provider "aws" {
-  region = "ap-south-1"   # Mumbai region
-}
 
 # EC2 Instance
 resource "aws_instance" "my_ec2" {
